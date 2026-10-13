@@ -1,6 +1,3 @@
-# words = "aabbccddd"
-
-# out = {"a": 2, "b": 2, "c": 2, "d": 3}
 
 
 def count_letters(word):

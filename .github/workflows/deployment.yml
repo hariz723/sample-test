@@ -9,7 +9,7 @@ jobs:
   lint-and-test:
     runs-on: ubuntu-latest
 
-  steps:
+    steps:
       # 1. Checkout repository
       - name: Checkout code
         uses: actions/checkout@v4
